@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="gbk"?>
+<paras author="badcat">
+	<programpara>
+		<autostart>0</autostart>
+		<minimize>0</minimize>
+		<clientexedir></clientexedir>
+		<autoconn enable="0">5</autoconn>
+	</programpara>
+	<clientnodes>
+		<node id="{7750B308-1D32-41FF-BFDC-8AD4B6C13E0D}" runstate="0" remark="xx">
+			<json enable="0"></json>
+			<localport>1080</localport>
+			<kcpserverip>127.0.0.1</kcpserverip>
+			<kcpserverport>29900</kcpserverport>
+			<key enable="0"></key>
+			<crypt enable="0"></crypt>
+			<nocomp enable="0"/>
+			<datashard enable="0"></datashard>
+			<parityshard enable="0"></parityshard>
+			<conn enable="0"></conn>
+			<mtu enable="0"></mtu>
+			<sndwnd enable="0"></sndwnd>
+			<rcvwnd enable="0"></rcvwnd>
+			<dscp enable="0"></dscp>
+			<autoexpire enable="0"></autoexpire>
+			<mode enable="0"></mode>
+			<nodelay enable="0"/>
+			<interval enable="0"></interval>
+			<resend enable="0"></resend>
+			<nc enable="0"/>
+			<acknodelay enable="0"/>
+			<keepalive enable="0"></keepalive>
+			<sockbuf enable="0"></sockbuf>
+		</node>
+	</clientnodes>
+</paras>
